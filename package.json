@@ -1,0 +1,26 @@
+{
+  "name": "create-legojs-lib",
+  "version": "0.0.2",
+  "description": "A powerful tool to create your own libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfmatic/create-legojs-lib.git"
+  },
+  "keywords": [
+    "components",
+    "css-modules",
+    "javascript",
+    "react",
+    "polymorphic"
+  ],
+  "author": "Jamal Eddine Naamani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perfmatic/create-legojs-lib/issues"
+  },
+  "homepage": "https://github.com/perfmatic/create-legojs-lib#readme"
+}
